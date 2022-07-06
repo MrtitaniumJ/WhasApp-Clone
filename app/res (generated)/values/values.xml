@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">104382598528-pjd5r98hgifc38rfn47vrsvk4prcsf8s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">104382598528</string>
+    <string name="google_api_key" translatable="false">AIzaSyDmJcAr3itsMm8quE9yCKyRVVHVLLqmmew</string>
+    <string name="google_app_id" translatable="false">1:104382598528:android:134b1ee828ce8811834565</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmJcAr3itsMm8quE9yCKyRVVHVLLqmmew</string>
+    <string name="google_storage_bucket" translatable="false">vchat-1a0b3.appspot.com</string>
+    <string name="project_id" translatable="false">vchat-1a0b3</string>
+</resources>
